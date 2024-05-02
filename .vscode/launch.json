@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exe3",
+            "request": "launch",
+            "mainClass": "Exe3",
+            "projectName": "DevLogic_b21edc53"
+        },
+        {
+            "type": "java",
             "name": "CadastroArrays",
             "request": "launch",
             "mainClass": "CadastroArrays",
